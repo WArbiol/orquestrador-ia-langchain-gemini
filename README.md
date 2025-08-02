@@ -11,7 +11,7 @@ Um projeto de aprendizado para criar um agente de IA simples capaz de orquestrar
 
 ### 🌟 Demonstração em GIF
 
-![Demo GIF](https-link-para-seu-gif-aqui.gif)
+![Demo GIF](https://github.com/user-attachments/assets/1b718378-af0a-412d-86bc-12f7175fabe1)
 
 ---
 
